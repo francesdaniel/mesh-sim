@@ -1,13 +1,11 @@
-# 🧠 Mini RAG Bot Simulator – Mesh Network Onboarding Assistant
+# Mini RAG Bot Simulator – Mesh Network Onboarding Assistant
 
 This is a foundational prototype of a user-facing Retrieval-Augmented Generation (RAG) bot. Built entirely using open-source tools, this bot is designed to assist users in understanding decentralized digital MESH networks — especially those headquartered in New York, but serving the broader United States.
-
-> 🌐 The goal is to simplify organizational intuition, lower onboarding barriers, and propagate mesh network utility democratizing commons.
+> The goal is to simplify organizational intuition, lower onboarding barriers, and propagate mesh network utility democratizing commons.
 
 ---
 
-## 🚀 What It Does (Currently)
-
+## What It Does (Currently)
 This version simulates a RAG system:
 - Loads context from a static file (`context.txt`)
 - Accepts a user question via terminal input
@@ -17,8 +15,7 @@ No AI models, no internet required — lightweight by design.
 
 ---
 
-## 🧱 Project Structure
-
+## Project Structure
 ```bash
 .
 ├── context.txt          # Editable knowledge base (currently static)
